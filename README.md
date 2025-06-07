@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @smadhulika07
-- 👀 I’m interested in coding and tech
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on meta
+- 👋 Hi, I’m madhulika
+- 👀 I’m interested in coding and data science
+- 🌱 I’m currently learning Python, SQL, Excel and Tableau
+- 👩‍🎓 Pursuing my Bachelor's degree in Computer science and Engineering at Gitam University,India
 - 📫 How to reach me : sangamareddymadhulika7@gmail.com
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: I AM SIMPLE YET MYSTERIOUS
+- ⚡ Fun fact: data science engineers are the detectives of real world
 
 <!---
 smadhulika07/smadhulika07 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
