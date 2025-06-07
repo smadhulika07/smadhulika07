@@ -1,6 +1,5 @@
 # 💫 About Me:
 👋 Hi, I’m madhulika<br> 👀 I’m interested in coding and data<br>
-👩‍💻Aspiring Data Scientist<br>
 🌱Learning Python, SQL, Tableau, Excel<br>👩‍🎓Currently doing my Bachelor's in Computer science and Engineering at Gitam University, India<br>📫 How to reach me : sangamareddymadhulika7@gmail.com<br>😄 Pronouns: she/her<br>⚡Fun fact: data science engineers are the detectives of real world
 
 <!---
